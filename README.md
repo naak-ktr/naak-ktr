@@ -4,7 +4,7 @@
 🌱 I'm aiming to propel my career forward by pushing my analytical boundaries. I'm hungry to explore new data science and analytics skills, maximizing my potential to unlock hidden insights and drive impactful solutions. This journey of continuous learning and growth is my fuel, and I'm excited to share my discoveries and collaborate with fellow data enthusiasts.
 
 
-📫 Reach me at [linkedin.com/in/azrawina_kontar](https://www.linkedin.com/in/azrawina-kontar/)
+📫 Reach me out at [linkedin.com/in/azrawina_kontar](https://www.linkedin.com/in/azrawina-kontar/)
 
 
 #### Data Analytics/ Machine Learning Projects
